@@ -3,7 +3,7 @@
 ## cache when run again
 
 ## creates a list to output with elements as functions to get/set data and
-## get/set the inverse matrix
+## get/set the inverse matrix getInverse() setInverse()
 
 makeCacheMatrix <- function(x = matrix()) {
   invMatrix <- NULL
